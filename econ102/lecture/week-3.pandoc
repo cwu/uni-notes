@@ -1,0 +1,93 @@
+
+<table>
+	<thead>
+    <tr>
+      <th>Expenditure Basis</th>
+      <th>Millions $</th>
+      <th>Total %</th>
+      <th>Billions</th>
+      <th>Total %</th>
+    </tr>
+  </thead>
+	<tbody>
+    <tr>
+      <th>Consumption</th>
+      <td>981080</td>
+      <td>57.0</td>
+      <td>10784.5</td>
+      <td>76.1</td>
+    </tr>
+    <tr>
+      <th>Government</th>
+      <td>439816</td>
+      <td>25.6</td>
+      <td>3047.3</td>
+      <td>20.1</td>
+    </tr>
+    <tr>
+      <th>Investment</th>
+      <td>322632</td>
+      <td>18.7</td>
+      <td>1906.6</td>
+      <td>12.6</td>
+    </tr>
+    <tr>
+      <th>->Residential</th>
+      <td>120404</td>
+      <td>7.0</td>
+      <td>337.0</td>
+      <td>2.2</td>
+    </tr>
+    <tr>
+      <th>->Plant</th>
+      <td>101032</td>
+      <td>5.9</td>
+      <td>424.8</td>
+      <td>2.8</td>
+    </tr>
+    <tr>
+      <th>->Machinery & Equipment</th>
+      <td>98464</td>
+      <td>5.7</td>
+      <td>1143.9</td>
+      <td>7.5</td>
+    </tr>
+    <tr>
+      <th>->Inventory Adj</th>
+      <td>2732</td>
+      <td>0.2</td>
+      <td>0.8</td>
+      <td>0.0</td>
+    </tr>
+    <tr>
+      <th>Exports</th>
+      <td>537084</td>
+      <td>31.2</td>
+      <td>2119.2</td>
+      <td>14.0</td>
+    </tr>
+    <tr>
+      <th>Imports</th>
+      <td>-558320</td>
+      <td>-32.4</td>
+      <td>-2681.6</td>
+      <td>-17.7</td>
+    </tr>
+    <tr>
+      <th>Statistical Discrepency</th>
+      <td>-1260</td>
+      <td>0.1</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+      <th>GDP</th>
+      <td>1721032</td>
+      <td>100.0</td>
+      <td>15176.1</td>
+      <td>100.0</td>
+    </tr>
+  </tbody>
+</table>
